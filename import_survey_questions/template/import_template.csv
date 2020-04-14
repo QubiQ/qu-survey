@@ -1,0 +1,10 @@
+code;question;answer1;answer2;answer3;answer4;answer5;correctAnswer;section
+1;Pregunta Sales 1;Si ;No ;Tal vez;;;3;SALES
+2;Pregunta Sales 2;Si ;No ;Tal vez;;;2;SALES
+3;Pregunta CRM 1;Si ;No ;Tal vez;;;3;CRM
+4;Pregunta CRM 2;Si ;No ;Tal vez;;;3;CRM
+5;Pregunta STOCK 1;Si ;No ;Tal vez;;;3;STOCK
+6;Pregunta STOCK 2;Si ;No ;Tal vez;;;3;STOCK
+7;Pregunta CRM 3;Si ;No ;Tal vez;;;3;CRM
+8;Pregunta Sales 3;Si ;No ;Tal vez;;;3;SALES
+9;Pregunta Stock 3;Si ;No ;Tal vez;;;3;STOCK
