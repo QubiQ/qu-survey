@@ -28,8 +28,9 @@ Usage
 To use this module, you need to:
 
 #. Create a .csv file following the template available on this module.
-#. Go to Sales > Configuration > Import contacts.
-#. Import the .csv and that's it.
+#. Be sure there is at least one survey otherwise create it
+#. Go to Surveys > Configuration > Import Questions.
+#. Import the .csv choose if you want to update question and select the survey.
 
 
 Known issues / Roadmap
