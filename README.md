@@ -1,5 +1,5 @@
 #
-Qu-Surveys Odoo v.11
+Qu-Surveys Odoo v.13
 ==========================
 
 [//]: # (addons)
@@ -8,7 +8,7 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[import_survey_questions](import_survey_questions/) | 11.0.1.0.0 | Allows to import questions throught .csv
+[survey_question_description](survey_question_description/) | 13.0.1.0.0 | Adds description field on questions form
 
 
 [//]: # (end addons)

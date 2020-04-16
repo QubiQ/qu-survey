@@ -2,18 +2,12 @@
    :target: https://www.gnu.org/licenses/agpl
    :alt: License: AGPL-3
 
-=======================
-Import Survey Questions
-=======================
+===========================
+Survey Question Description
+===========================
 
-This module allows you to import a list of questions to an existing survey using a .csv file.
+This module show the description field in the question survey form view
 
-Installation
-============
-
-To install this module, you need to:
-
-#. Just click on install
 
 Configuration
 =============
@@ -27,10 +21,8 @@ Usage
 
 To use this module, you need to:
 
-#. Create a .csv file following the template available on this module.
-#. Be sure there is at least one survey otherwise create it
-#. Go to Surveys > Configuration > Import Questions.
-#. Import the .csv choose if you want to update question and select the survey.
+#. Go to a survey, edit or create a question
+#. Click on the page Description and add some content
 
 
 Known issues / Roadmap
